@@ -5,7 +5,7 @@ import Services from "./components/sections/Services";
 import Gallery from "./components/sections/Gallery";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/layout/Footer";
-import Chatbot from "./components/ui/Chatbot";
+import Chatbot from "./components/ui/chatbot/Chatbot";
 
 function App() {
   return (
