@@ -11,11 +11,11 @@ const Header = () => {
           <img
             src={logo}
             alt="Minelva Los Morros"
-            className="w-24 h-24 object-contain"
+            className="w-32 h-32 object-contain"
           />
           <div>
-            <div className="font-bold text-lg leading-tight">Minelva</div>
-            <div className="text-xs text-blue-200">Los Morros C.A.</div>
+            <div className="font-bold text-2x1 leading-tight">Minelva</div>
+            <div className="text-base text-blue-200">Los Morros C.A.</div>
           </div>
         </div>
 
